@@ -1,3 +1,3 @@
 # FrontEnd
-for frony end works.
+for front end works.
 we will be pulling works from here
